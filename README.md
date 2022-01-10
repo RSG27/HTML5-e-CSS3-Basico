@@ -2,11 +2,11 @@
 
 Exercícios sobre os principais tópicos da linguagem
 
-<h1>CORES CSS</h1>
+<h1>✅ :white_check_mark:	CORES CSS</h1>
 
 <p>
-  A ideia aqui, neste exercício foi a de mostrar uma paleta de cores
-  mostrando as cores juntamente com bordas sólidas envolvendo as
+  A ideia aqui, neste exercício, foi a de mostrar uma paleta de cores
+  juntamente com bordas sólidas envolvendo as
   paletas
 </p>
 <p>
