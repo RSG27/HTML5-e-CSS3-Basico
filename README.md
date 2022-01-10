@@ -24,23 +24,23 @@ Exercícios sobre os principais tópicos da linguagem
   Abaixo temos as referências a respeito de cada propriedade usada no CSS deste
   exercício:
   
-  <h2>background-color</h2> Define a cor de fundo de um elemento.
+  <h2>✅ background-color</h2> Define a cor de fundo de um elemento.
 
   Sintaxe: color
   
-  <h2>border</h2> Propriedade abreviada para definir a largura, o estilo e a cor da borda.
+  <h2>✅ border</h2> Propriedade abreviada para definir a largura, o estilo e a cor da borda.
 
   Sintaxe: line-width || line-style || color
   
-  <h2>text-align</h2> Descreve como o conteúdo embutido de um bloco é alinhado horizontalmente se o conteúdo não preencher completamente a caixa de linha.
+  <h2> ✅ text-align</h2> Descreve como o conteúdo embutido de um bloco é alinhado horizontalmente se o conteúdo não preencher completamente a caixa de linha.
 
   Sintaxe: start | end | left | right | center | justify | match-parent  
   
-  <h2>height</h2> Especifica a altura da área de conteúdo, área de preenchimento ou área de borda (dependendo do 'tamanho da caixa') de certas caixas.
+  <h2> ✅ height</h2> Especifica a altura da área de conteúdo, área de preenchimento ou área de borda (dependendo do 'tamanho da caixa') de certas caixas.
 
   Sintaxe: viewport-length {1,2}
   
-  <h2>margin-top</h2> Propriedade abreviada para definir valores para a espessura da área da margem. Se a esquerda for omitida, é o mesmo que a direita. Se a parte inferior for   omitida, é o mesmo que a parte superior; se a direita for omitida, é o mesmo que a parte superior. Valores negativos para propriedades de margem são permitidos, mas pode         haver limites específicos de implementação.
+  <h2>✅ margin-top</h2> Propriedade abreviada para definir valores para a espessura da área da margem. Se a esquerda for omitida, é o mesmo que a direita. Se a parte inferior   for omitida, é o mesmo que a parte superior; se a direita for omitida, é o mesmo que a parte superior. Valores negativos para propriedades de margem são permitidos, mas pode     haver limites específicos de implementação.
   
   Sintaxe: length | percentage | auto
 </p>
