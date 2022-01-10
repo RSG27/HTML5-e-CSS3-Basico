@@ -6,7 +6,7 @@ Exercícios sobre os principais tópicos da linguagem
 
 <p>
   A ideia aqui, neste exercício, foi a de mostrar uma paleta de cores
-  juntamente com bordas sólidas envolvendo as paletas num arquivo CSS externo. 
+  juntamente com bordas sólidas envolvendo-as num arquivo CSS externo. 
   Para isso, usei seletores id's para selecionar cada uma dessas paletas.
 </p>
 <p>
