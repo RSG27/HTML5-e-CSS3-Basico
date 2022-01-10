@@ -25,7 +25,9 @@ Exercícios sobre os principais tópicos da linguagem
   Abaixo temos as referências a respeito de cada propriedade usada no CSS deste
   exercício:
   
-  <h2>✅ background-color</h2> Define a cor de fundo de um elemento.
+  <h2>✅ background-color</h2> 
+  
+  Define a cor de fundo de um elemento.
 
   
   <h2>✅ border</h2> Propriedade abreviada para definir a largura, o estilo e a cor da borda.
