@@ -1,9 +1,5 @@
-# HTML5-e-CSS3 
-<div style: "dipslay: inline-block;"><br>
-<img align="center" alt="Ruan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Ruan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-
+# HTML5-e-CSS3![image](https://user-images.githubusercontent.com/70416199/148845968-2675d58e-67f7-46c5-9f30-1d626c2412cf.png)
+ 
 Exercícios sobre os principais tópicos da linguagem
 
 <h1>CORES CSS</h1>
