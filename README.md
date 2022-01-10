@@ -5,7 +5,8 @@ Exercícios sobre os principais tópicos da linguagem
 
 <p>
   A ideia aqui, neste exercício foi a de mostrar uma paleta de cores
-  mostrando como as cores e as bordas podem ser usadas
+  mostrando as cores juntamente com bordas sólidas envolvendo as
+  paletas
 </p>
 <p>
   As principais propriedades usadas neste exercício
