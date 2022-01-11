@@ -1,6 +1,6 @@
 # HTML5 e CSS3
 
-Exercícios sobre os principais tópicos da linguagem
+Exercícios sobre tópicos básicos da linguagem
 
 <h1>🎨 Cores CSS</h1>
 
