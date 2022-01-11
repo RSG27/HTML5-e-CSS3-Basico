@@ -46,7 +46,7 @@ Exercícios sobre os principais tópicos da linguagem
 
 <p>
   A ideia aqui, neste exercício, foi a de mostrar como fontes externas, no caso, do google fonts, podem ser usadas para estilizar o texto. 
-  Para isso, tendo como base o texto do site lipsum.com, busquei estlizar a fonte do título por meio de um seletor id e a fonte do texto via seleção do elemento "<p>". 
+  Para isso, tendo como base o texto do site lipsum.com, busquei estlizar a fonte do título por meio de um seletor id e a fonte do texto via seleção do elemento "p". 
   Cabe ressaltar ainda, a aplicação de um background-color na minha página.
 </p>
 <p>
