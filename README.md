@@ -42,7 +42,7 @@ Exercícios sobre os principais tópicos da linguagem
   <h2>✅ margin-top</h2> Propriedade abreviada para definir valores para a espessura da área da margem. Se a esquerda for omitida, é o mesmo que a direita. Se a parte inferior   for omitida, é o mesmo que a parte superior; se a direita for omitida, é o mesmo que a parte superior. Valores negativos para propriedades de margem são permitidos, mas pode     haver limites específicos de implementação.
 </p>
 
-<h1>📝 ADICIONANDO FONTES EXTERNAS</h1>
+<h1>✏️ ADICIONANDO FONTES EXTERNAS</h1>
 
 <p>
   A ideia aqui, neste exercício, foi a de mostrar como fontes externas, no caso, do google fonts, podem ser usadas para estilizar o texto. 
