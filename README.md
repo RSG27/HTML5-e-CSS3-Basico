@@ -131,7 +131,7 @@ Exercícios sobre tópicos básicos da linguagem
   Atributo que indica o tipo de numeração:
       <ul>
         <li>'a' indica letras minúsculas</li>
-        <li>'A' indica letras maiúsculas</li>
+        <li>'A' indica letras minúsculas</li>
         <li>'i' indica algarismos romanos minúsculos</li>
         <li>'I' indica algarismos romanos maiúsculos</li>   
         <li>'1' indica números (padrão)</li>
