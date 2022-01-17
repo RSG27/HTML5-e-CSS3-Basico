@@ -139,3 +139,7 @@ Exercícios sobre tópicos básicos da linguagem
 </p>
 
 <h1>📅 Tabelas</h1>
+
+<p>
+  A ideia aqui, mais uma vez, é demonstrar como uma Tabela pode ser estruturada em HTML e CSS. 
+</p>
