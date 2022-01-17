@@ -157,3 +157,24 @@ Exercícios sobre tópicos básicos da linguagem
   <li>padding</li> 
 </ol>
 
+Abaixo temos as referências a respeito de cada propriedade usada no CSS deste
+exercício:
+  
+  <h2>✅ background-color</h2> 
+  
+  Define a cor de fundo de um elemento.
+  
+  <h2>✅ box-sizing</h2> 
+  
+  
+  <h2> ✅ font-family</h2> 
+  
+
+  <h2> ✅ margin</h2> 
+  
+
+  <h2>✅ padding</h2> 
+  
+</p>
+
+
