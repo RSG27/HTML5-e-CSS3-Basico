@@ -29,17 +29,21 @@ Exercícios sobre tópicos básicos da linguagem
   
   Define a cor de fundo de um elemento.
 
+  <h2>✅ border</h2> 
   
-  <h2>✅ border</h2> Propriedade abreviada para definir a largura, o estilo e a cor da borda.
+  Propriedade abreviada para definir a largura, o estilo e a cor da borda.
+  
+  <h2> ✅ text-align</h2> 
+  
+  Descreve como o conteúdo embutido de um bloco é alinhado horizontalmente se o conteúdo não preencher completamente a caixa de linha.
+  
+  <h2> ✅ height</h2> 
+  
+  Especifica a altura da área de conteúdo, área de preenchimento ou área de borda (dependendo do 'tamanho da caixa') de certas caixas.
 
+  <h2>✅ margin-top</h2> 
   
-  <h2> ✅ text-align</h2> Descreve como o conteúdo embutido de um bloco é alinhado horizontalmente se o conteúdo não preencher completamente a caixa de linha.
-
-  
-  <h2> ✅ height</h2> Especifica a altura da área de conteúdo, área de preenchimento ou área de borda (dependendo do 'tamanho da caixa') de certas caixas.
-
-  
-  <h2>✅ margin-top</h2> Propriedade abreviada para definir valores para a espessura da área da margem. Se a esquerda for omitida, é o mesmo que a direita. Se a parte inferior   for omitida, é o mesmo que a parte superior; se a direita for omitida, é o mesmo que a parte superior. Valores negativos para propriedades de margem são permitidos, mas pode     haver limites específicos de implementação.
+  Propriedade abreviada para definir valores para a espessura da área da margem. Se a esquerda for omitida, é o mesmo que a direita. Se a parte inferior   for omitida, é o mesmo   que a parte superior; se a direita for omitida, é o mesmo que a parte superior. Valores negativos para propriedades de margem são permitidos, mas pode     haver limites        específicos de implementação.
 </p>
 
 <h1>✏️ Adicionando Fontes Externas</h1>
@@ -166,15 +170,20 @@ exercício:
   
   <h2>✅ box-sizing</h2> 
   
+  É utilizada para alterar a propriedade padrão da box model, usada para calcular larguras (widths) e alturas (heights) dos elementos. É possível usar essa propriedade para       emular o comportamento dos navegadores (browsers) que não suportam corretamente a especificação da propriedade CSS box model. Possui como valores: o content-box, o padding-
+  box e o border-box(usada no exercício).
   
   <h2> ✅ font-family</h2> 
   
+  Permite que se faça uma lista de prioridades de familias de fontes e/ou nomes genéricos de famílias a serem especificados para um elemento selecionado. Ao contrário da maioria   das demais propriedades CSS, os valores são separados por vírgula para indicar quais são as alternativas.
 
   <h2> ✅ margin</h2> 
   
+  A propriedade margin do CSS define a área de margem nos quatro lados do elemento. É uma abreviação que define todas as margens individuais de uma só vez: margin-top, margin-     right, margin-bottom, e margin-left. 
 
   <h2>✅ padding</h2> 
   
+  A propriedade padding define uma a distância entre o conteúdo de um elemento e suas bordas. É um atalho que evita definir uma distância para cada lado separadamente (padding-   top, padding-right, padding-bottom, padding-left).
 </p>
 
 
