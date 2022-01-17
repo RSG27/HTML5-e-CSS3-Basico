@@ -144,3 +144,16 @@ Exercícios sobre tópicos básicos da linguagem
   Neste exercício procurei demonstrar como uma Tabela pode ser estruturada em HTML5 e CSS3. Para isso, fiz uma tabela 5x3(linhas x colunas) coloridas em tonalidades diferentes
   da cor violeta, sendo que, nas linhas ímpares foi utilizado o evento "hover" para colori-las  em uma tonalidade mais clara e nas linhas pares foi utilizado o "nth-child:  (even)" para colori-las em uma tonalidade mais escura. 
 </p>
+
+<p>
+  As principais propriedades usadas neste exercício
+  foram:
+</p>
+<ol>
+  <li>background-color</li>
+  <li>box-sizing</li>
+  <li>font-family</li>
+  <li>margin</li>
+  <li>padding</li> 
+</ol>
+
