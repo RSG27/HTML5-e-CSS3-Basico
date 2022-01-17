@@ -137,3 +137,5 @@ Exercícios sobre tópicos básicos da linguagem
         <li>'1' indica números (padrão)</li>
       </ul>
 </p>
+
+<h1>📅 Tabelas</h1>
