@@ -189,13 +189,15 @@ exercício:
 <h1>📋 Formulários</h1>
 
 <p>
-Neste exercício, busquei fazer um formulário simples para cadastro. Para isso, foram utilizadas as tags "form" para criação do formulário, "label" para representar uma legenda para um item em uma interface de usuário,"input" para criação dos campos a serem preenchidos, "select" para seleção de uma lista de informações e "option" para as opções do campo de seleção. 
+Neste exercício, busquei fazer um formulário simples para cadastro. Para isso, foram utilizadas as tags "form" para criação do formulário, "label" para representar uma legenda para um item em uma interface de usuário,"input" para criação dos campos a serem preenchidos, "select" para seleção de uma lista de informações e "option" para as opções do campo de seleção. Quando preenchemos todos os campos do formulário e enviamos essas informações para a página de login, o método GET nos mostra na URI do navegador, quais são
+elas.
 </p>
 
 <p>
-  As principais propriedades usadas neste exercício
-  foram:
+ As principais propriedades usadas neste exercício
+ foram:
 </p>
+
 <ol>
   <li>background-color</li>
   <li>box-sizing</li>
