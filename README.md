@@ -124,7 +124,7 @@ Exercícios sobre tópicos básicos da linguagem
   
   <h2>✅ list-style-type</h2> 
   
-  Propriedade CSS que define o marcador (como um disco, caractere ou estilo de contador personalizado) de um elemento do item de uma lista.
+  Propriedade CSS que define o marcador(como um disco, caractere ou estilo de contador personalizado) de um elemento do item de uma lista.
 
   <h2> ✅ start</h2> 
   
@@ -146,7 +146,7 @@ Exercícios sobre tópicos básicos da linguagem
 
 <p>
   Neste exercício procurei demonstrar como uma Tabela pode ser estruturada em HTML5 e CSS3. Para isso, fiz uma tabela 5x3(linhas x colunas) coloridas em tonalidades diferentes
-  da cor violeta, sendo que, nas linhas ímpares foi utilizado o evento "hover" para colori-las  em uma tonalidade mais clara e nas linhas pares foi utilizado o "nth-child:  (even)" para colori-las em uma tonalidade mais escura. 
+  da cor violeta, sendo que, nas linhas ímpares foi utilizado o evento "hover" para colori-las  em uma tonalidade mais clara e nas linhas pares foi utilizado o "nth-child:     (even)" para colori-las em uma tonalidade mais escura. 
 </p>
 
 <p>
@@ -187,4 +187,8 @@ exercício:
 </p>
 
 <h1>📋 Formulários</h1>
+
+<p>
+  Neste exercício, busquei fazer um formulário simples para cadastro. Para isso, foram utilizadas as tags "<form>" para criação do formulário, "<label>" para representar uma legenda para um item em uma interface de usuário,"<input>" para criação dos campos a serem preenchidos, "<select>" para seleção de uma lista de informações e "<option>" para a as opções do campo de seleção. 
+</p>
 
