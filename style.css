@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+  background-color: #00ff7f;
+}
+
+body {
+  margin: 50px;
+  font-size: 17px;
+}
+
+h1 {
+  font-family: serif;
+}
+
+label {
+  display: block;
+  margin-bottom: 20px;
+}
+
+input[type=text], input[type=email],input[type=tel], textarea, select {
+  padding: 10px;
+  width: 300px;
+  font-size: 15px;
+  border: 1px solid #CCC;
+  outline: 0;
+  margin-top: 5px;
+}
+
+textarea {
+  height: 200px;
+  /* Propriedade de redimensionamento do campo textarea, nesse caso deixamos ele desabilitado */
+  resize: none;
+}
+
+.termoslink {
+  color: #000;
+  text-decoration: none;
+}
+
+.termoslink:hover {
+  text-decoration: underline;
+}
+
+button {
+  padding: 10px;
+  font-size: 15px;
+  background-color: #fffafa;
+  border-radius: 10px/20px;
+}
+
+/* Adição de evento hover ao passar o mouse sobre o botão e os campos (Mudança de cores) */
+button:hover {
+  background-color: #ddd;
+}
+
+textarea:hover {
+  background-color: #fffafa;
+}
+
+input[type=text]:hover {
+  background-color: #fffafa;
+}
+
+input[type=email]:hover {
+  background-color: #fffafa;
+}
+
+input[type=tel]:hover {
+  background-color: #fffafa;
+}
+
+select:hover {
+  background-color: #fffafa;
+}
+
+option:hover {
+  background-color:#fffafa;
+}

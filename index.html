@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <title>Cadastro || Formulário</title>
+</head>
+<body>
+  <h1>Forms</h1>
+  
+  <h2>Área de cadastro</h2>
+
+  <form action="login.html" method="GET"> 
+    
+    <label>
+      Nome Completo:<br/>
+      <input type="text" name="nome">
+    </label>
+
+    <label>
+      Sexo:<br/>
+      <select name="categoria">
+        <option value="0"></option>
+        <option value="1">Masculino</option>
+        <option value="2">Feminino</option>
+        <option value="3">Outros</option>
+      </select>
+    </label>
+
+    <label>
+      E-mail:<br/>
+      <input type="email" name="email">
+    </label>
+
+    <label>
+      Telefone:<br/>
+      <input type="tel" name="telefone">
+    </label>
+
+    <label>
+      Situação Civil:<br/>
+      <select name="categoria">
+        <option value="0"></option>
+        <option value="1">Solteiro</option>
+        <option value="2">Casado</option>
+      </select>
+    </label>
+
+    <label>
+      Endereço:<br/>
+      <input type="text" name="endereco">
+    </label>
+
+    <label>
+      Estado:<br/>
+      <select>
+        <option value="">Selecione um estado</option>
+                    <option value="AC">Acre</option>
+                    <option value="AL">Alagoas</option>
+                    <option value="AP">Amapá</option>
+                    <option value="AM">Amazonas</option>
+                    <option value="BA">Bahia</option>
+                    <option value="CE">Ceará</option>
+                    <option value="DF">Distrito Federal</option>
+                    <option value="ES">Espírito Santo</option>
+                    <option value="GO">Goiás</option>
+                    <option value="MA">Maranhão</option>
+                    <option value="MT">Mato Grosso</option>
+                    <option value="MS">Mato Grosso do Sul</option>
+                    <option value="MG">Minas Gerais</option>
+                    <option value="PA">Pará</option>
+                    <option value="PB">Paraíba</option>
+                    <option value="PR">Paraná</option>
+                    <option value="PE">Pernambuco</option>
+                    <option value="PI">Piauí</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="RN">Rio Grande do Norte</option>
+                    <option value="RS">Rio Grande do Sul</option>
+                    <option value="RO">Rondônia</option>
+                    <option value="RR">Roraima</option>
+                    <option value="SC">Santa Catarina</option>
+                    <option value="SP">São Paulo</option>
+                    <option value="SE">Sergipe</option>
+                    <option value="TO">Tocantins</option>
+      </select>
+    </label>
+
+    <label>
+      Descrição:<br/>
+      <textarea name="descricao"></textarea>
+    </label>
+
+    <label for="teste">
+      <input type="checkbox" id="teste">
+      Eu declaro que li e aceito os <a href="Formularios/Exercicio/termos.html" class="termoslink" target="_blank">termos de uso</a>
+    </label>
+
+    <br>
+
+    <button>Cadastrar</button>
+  </form>
+</body>
+</html>
