@@ -1,11 +1,11 @@
 * {
-  box-sizing: border-box ;
+  box-sizing: border-box;
 }
 
 body {
-  margin: 50px;
+  margin: 40px;
   font-size: 17px;
-    background-color:#FFF000;
+  background-color:#FFF000;
 }
 
 h1 {
@@ -20,7 +20,7 @@ table {
 
 th, td {
   padding: 10px;
-  text-align: left;
+  text-align: center;
 }
 
 table thead {
